@@ -82,6 +82,11 @@ Uploading Untitled-2.mp4…
 ## Login/Sign Up (담당: 김수정)
 #### 정보 기입 최소화와 모달 형식으로 사용자의 편의성을 높인 로그인/회원가입 <br>
 
+
+https://github.com/reveur96/45-1st-rgb-frontend/assets/102032487/805f5185-bfbe-400c-a0b3-0332d1a2b366
+https://github.com/reveur96/45-1st-rgb-frontend/assets/102032487/338202ed-0e0d-4fe6-b68d-5df686b2e423
+
+
 **로그인**
 1. 로그인 - 이메일 주소 및 비밀번호 
 
@@ -144,6 +149,8 @@ Uploading Untitled-2.mp4…
 
 ## Invoice (담당 : 김수정)
 #### 백화점을 다녀온것 같은 산뜻함 느낌을 주는 인보이스 디자인
+https://github.com/reveur96/45-1st-rgb-frontend/assets/102032487/c7c225a8-a9ec-4ca3-9c5b-29e515ed7d60
+
 1. 데이터를 받아와 주문자 정보와 주문 내역 확인 가능하게 기능 구현
     ⇒ 결제 완료 후 다시 한번 주문자가 주문 내역을 확인할 수 있도록 한다. 
 
@@ -155,6 +162,8 @@ Uploading Untitled-2.mp4…
 
 ## Nav/Footer 
 #### 화면 상단과 하단에 고정을 사용자의 접근성을 높인 Nav/Footer (네비 담당: 김수정)
+https://github.com/reveur96/45-1st-rgb-frontend/assets/102032487/957c1f90-d0b9-4ee2-b42d-5ee996acab67
+
 1. 직관적인 디자인으로 현재 사용자의 포인트를 바로 확인할 수 있도록 구현 <br>
 2. 장바구니에 상품이 담길 때마다 실시간으로 수량 확인 가능하게 구현 <br>
 3. 로그인과 로그아웃 버튼의 스타일 반전으로 사용자가 보다 직관적으로 현재 상태 알 수 있게 구현 <br>
